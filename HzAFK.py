@@ -1,4 +1,5 @@
 # meta developer: @Ne_TegayMenya
+token = "795c519889fb9dec73df687ad7e547a82ba780b3"
 
 #    Friendly Telegram (telegram userbot)
 #    Copyright (C) 2018-2019 The Authors
